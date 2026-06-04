@@ -1,6 +1,6 @@
 # Random Laser Pack
 
-Adiciona uma chance de substituir um pacote de munição explosiva/incendiária colocada em uma caixa de Laser. (customizável)
+Adiciona uma chance de substituir um pacote de munição explosiva/incendiária colocada, em uma caixa de Laser. (customizável)
 
 Adds a chance to replace a deployed explosive/ammo pack into a Laser Sight box. (customizable)
 
