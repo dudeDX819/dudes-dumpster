@@ -2,7 +2,7 @@
 
 Adiciona uma chance de substituir um pacote de munição explosiva/incendiária colocada, em uma caixa de Laser. (customizável)
 
-Adds a chance to replace a deployed explosive/ammo pack into a Laser Sight box. (customizable)
+Adds a chance to replace a deployed explosive/incendiary ammo pack into a Laser Sight box. (customizable)
 
 
 
