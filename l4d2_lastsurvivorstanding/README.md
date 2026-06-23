@@ -4,7 +4,7 @@ Reimplementa a mecânica do "Último Homem na Terra" de se reviver quando estive
 
 Reimplements the self-revive mechanic from "Last Man on Earth" when alone in co-op.
 
-<img width="800" height="800" alt="ezgif-609b2824e3a80968" src="https://github.com/user-attachments/assets/a7b1de59-a118-41fe-bef8-daf1ae3dac8e" />
+<img width="300" height="300" alt="ezgif-609b2824e3a80968" src="https://github.com/user-attachments/assets/a7b1de59-a118-41fe-bef8-daf1ae3dac8e" />
 
 **CVARS**
 > cfg/sourcemod/l4d2_lastsurvivorstanding.cfg
