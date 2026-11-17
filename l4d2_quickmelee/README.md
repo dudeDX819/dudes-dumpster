@@ -10,7 +10,6 @@ Allows you to do a quick melee attack just like in Call of Duty.
 > Flag: None.
 ```
 !qmelee / sm_qmelee - Executa um ataque corpo a corpo rápido. // Performs a quick melee attack.
- // 
 ```
 
 **Requisitos / Requirements**
