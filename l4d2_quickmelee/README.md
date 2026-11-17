@@ -1,6 +1,6 @@
 # Quick Melee
 
-Permite que você de um ataque rapido corpo a corpo que nem no Call of Duty.
+Permite que você de um ataque corpo a corpo rapido que nem no Call of Duty.
 
 Allows you to do a quick melee attack just like in Call of Duty.
 
